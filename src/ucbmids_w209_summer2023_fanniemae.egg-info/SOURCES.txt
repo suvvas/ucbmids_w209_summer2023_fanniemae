@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/ucbmids_w209_summer2023_fanniemae.egg-info/PKG-INFO
+src/ucbmids_w209_summer2023_fanniemae.egg-info/SOURCES.txt
+src/ucbmids_w209_summer2023_fanniemae.egg-info/dependency_links.txt
+src/ucbmids_w209_summer2023_fanniemae.egg-info/top_level.txt

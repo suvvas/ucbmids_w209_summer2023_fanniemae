@@ -1,0 +1,7 @@
+# local package
+-e .
+
+# required pacakges
+numpy
+pandas
+altair
