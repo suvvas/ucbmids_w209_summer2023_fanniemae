@@ -5,3 +5,5 @@
 numpy
 pandas
 altair
+sqlalchemy
+psycopg2-binary
