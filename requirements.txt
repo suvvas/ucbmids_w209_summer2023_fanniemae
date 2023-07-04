@@ -3,7 +3,10 @@
 
 # required pacakges
 numpy
-pandas
+pandas==1.5.3
 altair
 sqlalchemy
 psycopg2-binary
+panel
+scikit-learn
+streamlit
