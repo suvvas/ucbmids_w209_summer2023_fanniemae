@@ -1,6 +1,5 @@
 from setuptools import find_packages, setup
 import os
-
 name = os.path.split(os.getcwd())[1]
 setup(
     name=name,
